@@ -8,7 +8,5 @@ import java.util.List;
 
 @Repository
 public interface MovieRepository extends JpaRepository<Movie, Long> {
-
-//	@Query("SELECT m FROM Music m WHERE m.genre = ?1")
 	List<Movie> findByGenre(String genre);
 }
