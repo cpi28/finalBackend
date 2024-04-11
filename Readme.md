@@ -50,7 +50,7 @@ Estas son solo algunas de las ventajas clave de utilizar una arquitectura de mic
 
 ## Configuración
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+1. Clona este repositorio: `git clone https://github.com/cpi28/finalBackend.git`
 2. Abre el proyecto en tu IDE preferido como IntelliJ por ejemplo.
 3. Inicia los servicios de Eureka, Gateway y Config Server.
 4. Ejecuta los contenedores de MySQL y RabbitMQ + Zipkin utilizando Docker.
