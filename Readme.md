@@ -68,4 +68,4 @@ Los microservicios están configurados para iniciar en puertos aleatorios por la
 El archivo de configuraciones se encuentra en el siguiente enlace: 
 [Repositorio de Configuraciones](https://github.com/Manuelperez1995/Parcial1BackEnd)
 
-Dentro de la carpeta Test se encuentran las imágenes con las distintas pruebas realizadas sobre los servicios.
+Dentro de la carpeta Test se encuentran las imágenes con las distintas pruebas realizadas sobre los servicios mediante Postman.
